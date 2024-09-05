@@ -12,3 +12,6 @@ generated_cv*
 chrome_profile
 answers.json
 data*
+env
+env/**
+data_folder/secrets.yaml
